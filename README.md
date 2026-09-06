@@ -108,3 +108,5 @@ The Silver dataset is used to populate downstream dimension tables:
 - `dim_booking`
 
 These transformations are executed as part of the **Azure Databricks pipeline**.
+
+![Architecture Diagram](Pipeline-flow.png)
