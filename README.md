@@ -50,7 +50,7 @@ The project simulates cab-booking transactions, streams events through Azure Eve
                   ┌──────────────┐      ┌──────────────┐
                   │ dim_vehicle  │      │ dim_booking  │
                   └──────────────┘      └──────────────┘
-
+```
 ## 🚀 Data Flow
 
 ### 1. Cab Booking Application
