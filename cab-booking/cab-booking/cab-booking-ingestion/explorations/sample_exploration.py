@@ -8,7 +8,7 @@ EH_NAMESPACE = "booking-events"
 EH_NAME = "bookingtopic"
 
 
-EH_CONN_STR = "Endpoint=sb://booking-events.servicebus.windows.net/;SharedAccessKeyName=ListenPolicy;SharedAccessKey=lOGZaJXr76RmIDeCBTXlOLfUoFBHCd1nW+AEhJ47raY=;EntityPath=bookingtopic"
+
 
 KAFKA_OPTIONS = {
   "kafka.bootstrap.servers"  : f"{EH_NAMESPACE}.servicebus.windows.net:9093",
